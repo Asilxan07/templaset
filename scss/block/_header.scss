@@ -89,7 +89,8 @@ margin-bottom: 15px;
   .siteheader_content{
     width: 345px;
 height: 510px;
-text-align: left;
+margin-right: auto;
+margin-left: auto;
   }
   .siteheader_content_title{
     width: 344px;
@@ -105,12 +106,12 @@ font-weight: 400;
 margin-bottom: 20px;
   }
   .siteheader_content_img{
-    width: 0px;
-  }
-  .siteheader_content_img1{
     width: 344px;
   }
+  .siteheader_content_img1{
+    width: 0px;
+  }
   .siteheader_content_link{
-    text-align: start;
+    margin-top: 50px;
   }
 }
